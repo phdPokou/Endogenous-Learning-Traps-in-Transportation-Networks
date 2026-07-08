@@ -1,0 +1,4 @@
+specification,estimand,coefficient,ci95_low_cluster_bootstrap,ci95_high_cluster_bootstrap
+S1 within-history event response,Post x incompleteness,0.01758798691658781,-0.10067671203513609,0.1233569806208015
+S2 post-period persistence gradient,Incompleteness,0.44273177362838423,0.3477369043098982,0.5397778335749173
+S3 pre-event placebo split,Placebo post x incompleteness,0.2360595331742401,-0.01289094477284091,0.4646178248252563
